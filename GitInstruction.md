@@ -40,6 +40,29 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+**Книги:**
+
+1. **"Pro Git" by Scott Chacon and Ben Straub:** Эта книга является отличным ресурсом для начинающих и продвинутых пользователей Git. Она доступна бесплатно онлайн на [официальном сайте Pro Git](https://git-scm.com/book/en/v2).
+
+2. **"Git Pocket Guide" by Richard E. Silverman:** Краткое и практичное руководство по основам Git.
+
+3. **"Git Internals" by Scott Chacon:** Эта книга предоставляет глубокое понимание внутреннего устройства Git.
+
+4. **"Version Control with Git" by Jon Loeliger and Matthew McCullough:** Подробное руководство, охватывающее различные аспекты использования Git.
+
+### Онлайн-ресурсы:
+
+1. **[Git Documentation](https://git-scm.com/doc):** Официальная документация Git содержит подробные сведения о каждой команде и концепции Git.
+
+2. **[GitHub Learning Lab](https://lab.github.com/):** Интерактивные курсы по Git, созданные GitHub, чтобы помочь вам научиться, как использовать Git на практике.
+
+3. **[Atlassian Git Tutorial](https://www.atlassian.com/git):** Полезные ресурсы от Atlassian, включая руководства и туториалы по использованию Git в комбинации с Bitbucket.
+
+4. **[Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf):** Шпаргалка, предоставленная GitHub, содержит основные команды Git.
+
+5. **[Pro Git YouTube Channel](https://www.youtube.com/user/progit):** Официальный канал Pro Git на YouTube, где можно найти видеоуроки по использованию Git.
+
+
 ## Альтернативные системы контроля версий.
 
 ### Итак, какая система контроля версий подойдет для вашего проекта?
